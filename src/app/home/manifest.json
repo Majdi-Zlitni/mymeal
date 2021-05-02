@@ -1,0 +1,8 @@
+{
+    "name": "MyMeal",
+    "short_name": "tp3",
+    "start_url": "./home.component.html",
+    "display": "standalone",
+    "theme_color": "#07708a",
+  "background_color": "white"
+  }
